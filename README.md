@@ -46,3 +46,7 @@ Versions of tools used:
 
 # flask-reverse-proxy-rosrelease
 Releasing https://github.com/wilbertom/flask-reverse-proxy on ROS
+
+| Indigo | Jade | Kinetic |
+|:------:|:----:|:-------:|
+| [![Build Status](https://travis-ci.org/asmodehn/flask-reverse-proxy-rosrelease.svg?branch=release%2Findigo%2Fflask_reverse_proxy)](https://travis-ci.org/asmodehn/flask-reverse-proxy-rosrelease)| [![Build Status](https://travis-ci.org/asmodehn/flask-reverse-proxy-rosrelease.svg?branch=release%2Fjade%2Fflask_reverse_proxy)](https://travis-ci.org/asmodehn/flask-reverse-proxy-rosrelease) | [![Build Status](https://travis-ci.org/asmodehn/flask-reverse-proxy-rosrelease.svg?branch=release%2Fkinetic%2Fflask_reverse_proxy)](https://travis-ci.org/asmodehn/flask-reverse-proxy-rosrelease)|
