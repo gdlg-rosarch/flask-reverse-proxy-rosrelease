@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="2">
+  <!--
+   This file is mostly here to provide ros dependencies when this project is built with catkin
+   -->
+  <name>flask_reverse_proxy</name>
+  <version>0.2.0</version>
+  <description>
+  A Flask "extension" for applications in a reverse proxy not at the root. A complete rip off of http://flask.pocoo.org/snippets/35/.
+  </description>
+
+  <license>MIT</license>
+
+  <url type="repository">https://github.com/wilbertom/flask-reverse-proxy.git</url>
+  <url type="bugtracker">https://github.com/wilbertom/flask-reverse-proxy.git/issues</url>
+
+  <author>Wilberto Morales</author>
+  <maintainer email="asmodehn@gmail.com">AlexV</maintainer>
+
+  <buildtool_depend version_gte="0.6.18">catkin</buildtool_depend>
+  <build_depend version_gte="0.2.0">catkin_pip</build_depend>
+
+  <export>
+    <rosdoc external_url="https://github.com/wilbertom/flask-reverse-proxy" />
+  </export>
+
+</package>
+
+
