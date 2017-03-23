@@ -1,0 +1,13 @@
+Source: ros-indigo-flask-reverse-proxy
+Section: misc
+Priority: extra
+Maintainer: AlexV <asmodehn@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin (>= 0.6.18), ros-indigo-catkin-pip (>= 0.2.0)
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-flask-reverse-proxy
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: A Flask &quot;extension&quot; for applications in a reverse proxy not at the root.
+ A complete rip off of http://flask.pocoo.org/snippets/35/.
