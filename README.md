@@ -1,3 +1,26 @@
+## flask_reverse_proxy (indigo) - 0.2.0-2
+
+The packages in the `flask_reverse_proxy` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo flask_reverse_proxy` on `Thu, 23 Mar 2017 09:30:27 -0000`
+
+The `flask_reverse_proxy` package was released.
+
+Version of package(s) in repository `flask_reverse_proxy`:
+
+- upstream repository: https://github.com/wilbertom/flask-reverse-proxy.git
+- release repository: https://github.com/asmodehn/flask-reverse-proxy-rosrelease.git
+- rosdistro version: `0.2.0-1`
+- old version: `0.2.0-1`
+- new version: `0.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## flask_reverse_proxy (jade) - 0.2.0-1
 
 The packages in the `flask_reverse_proxy` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade flask_reverse_proxy` on `Thu, 23 Mar 2017 02:31:02 -0000`
